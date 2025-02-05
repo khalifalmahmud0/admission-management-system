@@ -1,0 +1,210 @@
+*{
+    font-family: cursive ;
+}
+
+
+.dashboardcontent {
+    background-color: darkgray;
+        border-radius: 8px;
+}
+.textdashtype{
+font-weight: bold;
+}
+.textdashtypema {
+    text-align: center;
+    margin-right: 155px;
+        color: dimgray;
+}
+.notificationheaderpay{
+
+}
+.clamargin {
+    margin-left: -2% !important;
+}
+
+.paymenttooooop{
+	    margin-bottom: 40px;
+    text-align: center;
+}
+.payementimage {
+    float: left;
+    margin-right: 25px;
+}
+.paymentconfirm{
+	    font-weight: bold;
+    font-size: 40px;
+    color: darkgray;
+}
+
+.sidebar, .main-panel {
+    background-color: gainsboro !important;
+}
+
+.panel-body {
+    padding: 70px !important;
+}
+
+.captchasetting{
+       margin-top: 30px;
+    margin-bottom: 20px;
+}
+.yahoomm{
+        margin-top: 25px;
+}
+
+#checkboxsetting{
+        margin-top: 20px;
+
+}
+
+.card-user .author {
+  margin-top: 0px !important;
+}
+.card .content {
+    padding: 15px 15px 10px 15px !important;
+}
+
+.card-user .content {
+    min-height: 0px !important; 
+}
+.card-user .image {
+    height: 80px !important;
+}
+
+.dashboardcontent {
+    border-radius: 0px !important;
+}
+
+
+
+
+.card-user .avatar {
+    width: 110px !important;
+    height: 110px !important;
+    margin-bottom: 65px !important;
+    margin-left: -30px !important;
+    margin-top: 50px !important;
+}
+
+
+.tdstyle {
+    color: black;
+    width: 0px !important;
+    font-family: cursive;
+}
+
+.databaseimage{
+        height: 90px;
+    width: 117px;
+}
+
+.tableclass {
+    width: 1px !important;
+}
+
+.sitenamestyle{
+
+}
+.sitenamestylediv{
+
+}
+
+.fontclass {
+    font-size: 18px !important;
+}
+
+.socialiconStyle {
+    font-size: 25px;
+    margin: 10px;
+}
+
+.procoverdivdivdiv{
+
+}
+.procoverdivdiv{
+
+}
+
+.procoverdiv {
+    background: #2A3F54;
+}
+
+.procover{
+    
+}
+
+.studentimage {
+    height: 150px;
+    width: 150px;
+    margin-bottom: 70px;
+    margin-left: 55px;
+}
+.signature {
+    height: 100px;
+    width: 270px;
+}
+
+/*.image {
+    float: right;
+}*/
+
+
+.sig {
+    margin-top: 20px;
+    margin-bottom: 165px;
+}
+.signatureA{
+margin-left: 80px;
+}
+
+.signatureB{
+    margin-left: 193px;
+}
+
+.admitfield{
+  margin-left: 110px;  
+}
+.admitfield p{
+   
+}
+.admitfield>p>span{
+      margin-left: 30px;
+    font-size: 25px;
+}
+
+
+
+.admitheader {
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.admitheaderpp {
+    font-size: 25px;
+}
+
+.firsttd{
+
+}
+
+.secoundtd{
+
+}
+.ptag {
+    border-top: 2px solid black;
+    width: 270px;
+    padding-top: 5px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.modal-backdrop {
+
+ background-color: none !important; 
+    }
+
+.imagecimage {
+    height: 80px !important;
+    width: 135px !important;
+        margin: 0px !important;
+}

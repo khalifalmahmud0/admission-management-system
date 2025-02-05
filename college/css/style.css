@@ -1,0 +1,117 @@
+.univerTitle {
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	padding-top: 25px;
+	padding-bottom: 30px;
+	text-transform: unset;
+}
+
+.fieldone{
+padding-bottom: 50px;
+}
+.fieldtwo{
+padding-bottom: 50px;
+}
+.fieldthree{
+padding-bottom: 50px;
+}
+.fieldfour{
+	padding-bottom: 50px;
+}
+.captchasetting{
+	    padding-top: 50px;
+}
+.yahoomm{
+	padding-top: 35px;
+}
+.legendname{
+	    font-size: 25px;
+}
+.loginor{}
+.loginor hr {}
+.loginor span{}
+
+.recoverypassbody {
+    padding-top: 100px;
+}
+.blockm {
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+.fieldrecoveryemail{
+	padding-bottom: 10px;
+}
+.backlogin {
+    font-size: 18px;
+}
+.LoginWithFacebook{
+text-decoration: none !important;
+}
+
+.LoginWithFacebook:hover{
+background-color: #337ab7 !important;
+}
+
+.LoginWithGoogle{
+	text-decoration: none !important;
+	    background-color: #D34438;
+    border: #D34438;
+}
+
+.LoginWithGoogle:hover{
+	    background-color: #D34438 !important;
+}
+
+.login_content {
+
+        text-shadow: none !important;
+   
+}
+
+.login_content>form> div >a {
+    font-size: 16px !important;
+}
+/*payment*/
+.paymentconfirm {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+.payementimage {
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.payementtype{
+	font-size: 35px;
+	    margin-bottom: 30px;
+}
+
+.paymentpadding{
+	    padding-top: 50px;
+}
+
+.paymentbottomone{
+	margin-left: 355px;
+}
+.paymentmenu {
+    position: relative;
+    float: right;
+    right: 400px;
+}
+.paymenttooooop {
+    margin-bottom: 65px;
+}
+
+.createsubmit {
+    margin-left: 0px !important;
+}
+
+.createreset{
+    margin-left: -205px !important;
+}
+
